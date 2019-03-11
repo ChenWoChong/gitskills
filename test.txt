@@ -3,4 +3,5 @@ second
 third
 creating a new branch is quick and simple.
 try double commit.
+try a new merge.
 
