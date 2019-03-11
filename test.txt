@@ -1,6 +1,6 @@
 first
 second
 third
-creating a new branch is quick.
+creating a new branch & quick.
 try double commit.
 
